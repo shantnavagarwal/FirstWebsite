@@ -9,5 +9,18 @@
         "name": "Shantnav Agarwal"
     },
     "items": [
+        {
+            "id": "https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html",
+            "url": "https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html",
+            "title": "Traffic Sign Classifier",
+            "image": "https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/TSC.jpeg",
+            "author": {
+                "name": "Shantnav Agarwal"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-25T20:24:00+05:30",
+            "date_modified": "2019-10-25T20:28:18+05:30"
+        }
     ]
 }
