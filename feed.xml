@@ -3,7 +3,7 @@
     <title>shantnavagarwal</title>
     <link href="https://shantnavagarwal.github.io/FirstWebsite/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/FirstWebsite" />
-    <updated>2019-11-10T13:16:53+05:30</updated>
+    <updated>2019-11-10T15:33:40+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
@@ -17,9 +17,140 @@
         <link href="https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html"/>
         <id>https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html</id>
 
-        <updated>2019-11-10T13:09:10+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-11-10T14:52:06+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
+                    <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I along my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing correct actions.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
+                <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I along my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing correct actions.</p>
+
+<h2 id="mcetoc_1dpa6mevi0">Our Equipment</h2>
+<p>Our objective was to install multiple cameras in a car, and process their data to advise the driver in real-time if required. We had the following equipment on hand:</p>
+<table style="width: 698px; height: 612px;">
+<tbody>
+<tr>
+<td style="width: 94px;">
+<p><span style="text-decoration: underline;"><strong>S. No</strong></span></p>
+</td>
+<td style="width: 281.138px;">
+<p><span style="text-decoration: underline;"><strong>Name</strong></span></p>
+</td>
+<td style="width: 167.862px;">
+<p><span style="text-decoration: underline;"><strong>Model Number</strong></span></p>
+</td>
+<td style="width: 154px;">
+<p><span style="text-decoration: underline;"><strong>Quantity</strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>1.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>Basler IP Fixed Box Cameras</p>
+</td>
+<td style="width: 167.862px;">
+<p>BIP2-1300C-DN</p>
+</td>
+<td style="width: 154px;">
+<p>6 Units</p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>2.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>D-Link Network Box</p>
+</td>
+<td style="width: 167.862px;">
+<p>DES-1210-08P</p>
+</td>
+<td style="width: 154px;">
+<p>1 Unit</p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>3.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>Vehicle</p>
+</td>
+<td style="width: 167.862px;">
+<p>Nissan X-Trail</p>
+</td>
+<td style="width: 154px;">
+<p>1 Unit</p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>4.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>Matrix Computer</p>
+</td>
+<td style="width: 167.862px;">
+<p>MXE-5401</p>
+</td>
+<td style="width: 154px;">
+<p>1 Unit</p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>5.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>Micro-Controller</p>
+</td>
+<td style="width: 167.862px;">
+<p>Arduino Uno</p>
+</td>
+<td style="width: 154px;">
+<p>1 Unit</p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>6.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>Power Supply</p>
+</td>
+<td style="width: 167.862px;">
+<p>1000 Watts</p>
+</td>
+<td style="width: 154px;">
+<p>1 Unit</p>
+</td>
+</tr>
+<tr>
+<td style="width: 94px;">
+<p>7.      </p>
+</td>
+<td style="width: 281.138px;">
+<p>Connecting Wires, Multi-meter etc</p>
+</td>
+<td style="width: 167.862px;">
+<p> </p>
+</td>
+<td style="width: 154px;">
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>CNN for detecting traffic signs</title>

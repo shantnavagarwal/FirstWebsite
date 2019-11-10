@@ -5,6 +5,7 @@
     "home_page_url": "https://shantnavagarwal.github.io/FirstWebsite",
     "feed_url": "https://shantnavagarwal.github.io/FirstWebsite/feed.json",
     "user_comment": "",
+    "icon": "https://shantnavagarwal.github.io/FirstWebsite/media/website/Logo.png",
     "author": {
         "name": "Shantnav Agarwal"
     },
@@ -13,6 +14,8 @@
             "id": "https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html",
             "url": "https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html",
             "title": "Advanced Driver Assisstance System",
+            "summary": "<p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I along my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing correct actions.</p>\n",
+            "content_html": "<p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I along my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing correct actions.</p>\n\n<h2 id=\"mcetoc_1dpa6mevi0\">Our Equipment</h2>\n<p>Our objective was to install multiple cameras in a car, and process their data to advise the driver in real-time if required. We had the following equipment on hand:</p>\n<table style=\"width: 698px; height: 612px;\">\n<tbody>\n<tr>\n<td style=\"width: 94px;\">\n<p><span style=\"text-decoration: underline;\"><strong>S. No</strong></span></p>\n</td>\n<td style=\"width: 281.138px;\">\n<p><span style=\"text-decoration: underline;\"><strong>Name</strong></span></p>\n</td>\n<td style=\"width: 167.862px;\">\n<p><span style=\"text-decoration: underline;\"><strong>Model Number</strong></span></p>\n</td>\n<td style=\"width: 154px;\">\n<p><span style=\"text-decoration: underline;\"><strong>Quantity</strong></span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>1.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>Basler IP Fixed Box Cameras</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p>BIP2-1300C-DN</p>\n</td>\n<td style=\"width: 154px;\">\n<p>6 Units</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>2.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>D-Link Network Box</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p>DES-1210-08P</p>\n</td>\n<td style=\"width: 154px;\">\n<p>1 Unit</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>3.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>Vehicle</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p>Nissan X-Trail</p>\n</td>\n<td style=\"width: 154px;\">\n<p>1 Unit</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>4.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>Matrix Computer</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p>MXE-5401</p>\n</td>\n<td style=\"width: 154px;\">\n<p>1 Unit</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>5.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>Micro-Controller</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p>Arduino Uno</p>\n</td>\n<td style=\"width: 154px;\">\n<p>1 Unit</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>6.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>Power Supply</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p>1000 Watts</p>\n</td>\n<td style=\"width: 154px;\">\n<p>1 Unit</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 94px;\">\n<p>7.      </p>\n</td>\n<td style=\"width: 281.138px;\">\n<p>Connecting Wires, Multi-meter etc</p>\n</td>\n<td style=\"width: 167.862px;\">\n<p> </p>\n</td>\n<td style=\"width: 154px;\">\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "image": "https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png",
             "author": {
                 "name": "Shantnav Agarwal"
@@ -20,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2019-11-10T12:52:09+05:30",
-            "date_modified": "2019-11-10T13:09:10+05:30"
+            "date_modified": "2019-11-10T14:52:06+05:30"
         },
         {
             "id": "https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html",
