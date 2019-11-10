@@ -1,24 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>FirstWebsit</title>
+    <title>shantnavagarwal</title>
     <link href="https://shantnavagarwal.github.io/FirstWebsite/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/FirstWebsite" />
-    <updated>2019-10-25T20:30:12+05:30</updated>
+    <updated>2019-11-10T12:49:09+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
     <id>https://shantnavagarwal.github.io/FirstWebsite</id>
 
     <entry>
-        <title>Traffic Sign Classifier</title>
+        <title>CNN for detecting traffic signs</title>
         <author>
             <name>Shantnav Agarwal</name>
         </author>
         <link href="https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html"/>
         <id>https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html</id>
 
-        <updated>2019-10-25T20:28:18+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-11-10T12:49:03+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/TSC.jpeg" alt="" />
+                    Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs. I used the GTSRB dataset&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/TSC.jpeg" alt="" />
+                <p>Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs.</p>
+<h2 id="mcetoc_1dpa0i8v80"><strong>Dataset summary &amp; distribution</strong></h2>
+<figure class="post__image post__image--left" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/BarChart.png" alt="Bar chart showing number of samples in training set for each label " width="385" height="252">
+<figcaption >Bar chart shows number of samples in training data per label</figcaption>
+</figure>
+<p>I used the GTSRB dataset to train my network. It had almost 35000 images divided into 42 classes. As shown in the bar chart on the right, the number of datapoints for each class was highly skewed. To improve classification accuracy, I generated extra datapoints such that all labels had atleast 800 data points. To generate the extra datapoints, I scaled and warped the images with their parameters being sampled from a uniform distribution. A few examples of these generated datapoints is shown below.</p>
+<figure class="post__image post__image--wide" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/Examples.png" alt="" width="855" height="373">
+<figcaption >
+<p>Examples of generated images</p>
+</figcaption>
+</figure>
+<h2 id="mcetoc_1dpa16rmp1">Pre-processing the data</h2>
+<p>To keep the size of the network in check, I decided to use grayscale images instead of colour ones.  On observing the results, I realised that some images were simply too dark. I found it difficult to myself classify these traffic signs! Thus, to further enhace the contrast of these images, I used Contrast Limiting Adaptive Histogram Equalizer (CLAHE) on each image. This produced fantastic results as shown below.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/Greyscale.png" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/Greyscale-thumbnail.png" alt="" width="720" height="317"></a>
+<figcaption class="gallery-description">Greyscale</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/CLAHE.png" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/CLAHE-thumbnail.png" alt="" width="720" height="317"></a>
+<figcaption class="gallery-description">CLAHE</figcaption>
+</figure>
+</div>
+<p>Particularly impressive is the "Men at Work" sign (row 3, col 5) which was not comprehensible before the CLAHE filter was applied. Finally the images were standardized to between 0 and 1.</p>
+<h2 id="mcetoc_1dpa2lijd2">Results</h2>
+<p>I was able to sucessfully train the model to deliver an accuracy of over 98% on the testing data.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>

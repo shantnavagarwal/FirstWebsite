@@ -6,9 +6,25 @@
 </url>
 <url>
 <loc>https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html</loc>
-<lastmod>2019-10-25T20:28:18+05:30</lastmod>
+<lastmod>2019-11-10T12:49:03+05:30</lastmod>
 <image:image>
 <image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/TSC.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/BarChart.png</image:loc>
+<image:title><![CDATA[Bar chart showing number of samples in training set for each label ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/Examples.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/gallery/Greyscale-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/gallery/CLAHE-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
