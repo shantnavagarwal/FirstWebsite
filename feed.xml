@@ -3,7 +3,7 @@
     <title>shantnavagarwal</title>
     <link href="https://shantnavagarwal.github.io/FirstWebsite/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/FirstWebsite" />
-    <updated>2019-11-10T15:33:40+05:30</updated>
+    <updated>2019-11-11T12:32:50+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
@@ -164,7 +164,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/TSC.jpeg" alt="" />
-                    Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs. I used the GTSRB dataset&hellip;
+                    Recognition of Traffic signs is one of the most crucial tasks while&hellip;
                 ]]>
             </summary>
         <content type="html">
