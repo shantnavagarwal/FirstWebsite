@@ -3,151 +3,173 @@
     <title>shantnavagarwal</title>
     <link href="https://shantnavagarwal.github.io/FirstWebsite/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/FirstWebsite" />
-    <updated>2019-11-12T20:45:33+05:30</updated>
+    <updated>2019-11-15T18:09:57+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
     <id>https://shantnavagarwal.github.io/FirstWebsite</id>
 
     <entry>
-        <title>Advanced Driver Assisstance System</title>
+        <title>Advanced Driver Assistance System</title>
         <author>
             <name>Shantnav Agarwal</name>
         </author>
         <link href="https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html"/>
         <id>https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html</id>
 
-        <updated>2019-11-10T14:52:06+05:30</updated>
+        <updated>2019-11-15T18:09:53+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
-                    <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I along my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing correct actions.</p>
+                    <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
-                <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I along my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing correct actions.</p>
+                <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
 
 <h2 id="mcetoc_1dpa6mevi0">Our Equipment</h2>
 <p>Our objective was to install multiple cameras in a car, and process their data to advise the driver in real-time if required. We had the following equipment on hand:</p>
-<table style="width: 698px; height: 612px;">
+<table style="width: 653px; height: 612px;">
 <tbody>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p><span style="text-decoration: underline;"><strong>S. No</strong></span></p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p><span style="text-decoration: underline;"><strong>Name</strong></span></p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p><span style="text-decoration: underline;"><strong>Model Number</strong></span></p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p><span style="text-decoration: underline;"><strong>Quantity</strong></span></p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>1.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>Basler IP Fixed Box Cameras</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p>BIP2-1300C-DN</p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p>6 Units</p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>2.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>D-Link Network Box</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p>DES-1210-08P</p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>3.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>Vehicle</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p>Nissan X-Trail</p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>4.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>Matrix Computer</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p>MXE-5401</p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>5.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>Micro-Controller</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p>Arduino Uno</p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>6.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>Power Supply</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p>1000 Watts</p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 94px;">
+<td style="width: 82px;">
 <p>7.      </p>
 </td>
-<td style="width: 281.138px;">
+<td style="width: 291px;">
 <p>Connecting Wires, Multi-meter etc</p>
 </td>
-<td style="width: 167.862px;">
+<td style="width: 157.381px;">
 <p> </p>
 </td>
-<td style="width: 154px;">
+<td style="width: 118.619px;">
 <p> </p>
 </td>
 </tr>
 </tbody>
 </table>
+<h2 id="mcetoc_1dpg3jint0"> Process</h2>
+<p>We identified the 3 areas in which we needed to work to properly instrument the car. They were:</p>
+<ul>
+<li>Providing power to the computers and cameras</li>
+<li>Ensure that all the cameras are synchronised - We want them to take images simultaneously</li>
+<li>Damp the vibrations introduced in the camera due to the movement in the car
+<figure class="post__image post__image--right" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102810074_iOS.jpg" alt="" width="4032" height="1000">
+<figcaption >Wiring and inverter in the vehicle's boot</figcaption>
+</figure>
+</li>
+</ul>
+<p>The cameras, computer and monitor together needed about 350 watts of AC power. Considering efficiency losses, we needed a 12 volt DC to 220 volt AC converter with a rating of 500 watts. However, it was not possible to supply 500 watts over the existing electrical network in the car. We modified the cars internal wiring to provide enough juice to our devices.</p>
+<p>To syncronise the cameras, we developed a cycle in which:</p>
+<ol>
+<li>The camera captures a frame when its real-time electronic trigger is activated</li>
+<li>This trigger is activated via an Arduino Uno when requested by the computer.</li>
+<li>The computer initiates this request when it has finished processing the previous set of frames.</li>
+</ol>
+<p>Through this cycle, we were able to ensure that each camera captured its respective frames within 7ms of each other.</p>
+<figure class="post__image post__image--center" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/IMG_0626.gif" width="500" height="281">
+<figcaption >Stream from 4 cameras is being advaced one frame at a time in a clockwise fashion</figcaption>
+</figure>
 <p> </p>
             ]]>
         </content>
