@@ -3,32 +3,12 @@
     <title>shantnavagarwal</title>
     <link href="https://shantnavagarwal.github.io/Website/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/Website" />
-    <updated>2019-11-19T23:13:54+05:30</updated>
+    <updated>2019-11-19T23:15:33+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
     <id>https://shantnavagarwal.github.io/Website</id>
 
-    <entry>
-        <title>asfa</title>
-        <author>
-            <name>Shantnav Agarwal</name>
-        </author>
-        <link href="https://shantnavagarwal.github.io/Website/asfa.html"/>
-        <id>https://shantnavagarwal.github.io/Website/asfa.html</id>
-
-        <updated>2019-11-19T23:13:48+05:30</updated>
-            <summary>
-                <![CDATA[
-                    asfafa
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                asfafa
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Advanced Driver Assistance System</title>
         <author>
