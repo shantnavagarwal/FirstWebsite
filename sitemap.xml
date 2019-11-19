@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://shantnavagarwal.github.io/FirstWebsite/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://shantnavagarwal.github.io/Website/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://shantnavagarwal.github.io/FirstWebsite/</loc>
+<loc>https://shantnavagarwal.github.io/Website/</loc>
 </url>
 <url>
-<loc>https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html</loc>
+<loc>https://shantnavagarwal.github.io/Website/advanced-driver-assisstance-system.html</loc>
 <lastmod>2019-11-15T18:46:47+05:30</lastmod>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\2/20181016_102911748_iOSNEW.png</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\2/20181016_102911748_iOSNEW.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\2/20181016_102810074_iOS.jpg</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\2/20181016_102810074_iOS.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\2/IMG_0626.gif</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\2/IMG_0626.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html</loc>
+<loc>https://shantnavagarwal.github.io/Website/traffic-sign-classifier.html</loc>
 <lastmod>2019-11-10T12:49:03+05:30</lastmod>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/TSC.jpeg</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\1/TSC.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/BarChart.png</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\1/BarChart.png</image:loc>
 <image:title><![CDATA[Bar chart showing number of samples in training set for each label ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/Examples.png</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\1/Examples.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/gallery/Greyscale-thumbnail.png</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\1/gallery/Greyscale-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shantnavagarwal.github.io/FirstWebsite/media\posts\1/gallery/CLAHE-thumbnail.png</image:loc>
+<image:loc>https://shantnavagarwal.github.io/Website/media\posts\1/gallery/CLAHE-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

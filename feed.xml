@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>shantnavagarwal</title>
-    <link href="https://shantnavagarwal.github.io/FirstWebsite/feed.xml" rel="self" />
-    <link href="https://shantnavagarwal.github.io/FirstWebsite" />
-    <updated>2019-11-19T23:03:31+05:30</updated>
+    <link href="https://shantnavagarwal.github.io/Website/feed.xml" rel="self" />
+    <link href="https://shantnavagarwal.github.io/Website" />
+    <updated>2019-11-19T23:04:21+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
-    <id>https://shantnavagarwal.github.io/FirstWebsite</id>
+    <id>https://shantnavagarwal.github.io/Website</id>
 
     <entry>
         <title>Advanced Driver Assistance System</title>
         <author>
             <name>Shantnav Agarwal</name>
         </author>
-        <link href="https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html"/>
-        <id>https://shantnavagarwal.github.io/FirstWebsite/advanced-driver-assisstance-system.html</id>
+        <link href="https://shantnavagarwal.github.io/Website/advanced-driver-assisstance-system.html"/>
+        <id>https://shantnavagarwal.github.io/Website/advanced-driver-assisstance-system.html</id>
 
         <updated>2019-11-15T18:46:47+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
+                        <img src="https://shantnavagarwal.github.io/Website/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
                     <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
+                    <img src="https://shantnavagarwal.github.io/Website/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
                 <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
 
 <h2 id="mcetoc_1dpa6mevi0">Our Equipment</h2>
@@ -154,7 +154,7 @@
 <li>Providing power to the computers and cameras</li>
 <li>Ensure that all the cameras are synchronised - We want them to take images simultaneously</li>
 <li>Damp the vibrations introduced in the camera due to the movement in the car
-<figure class="post__image post__image--right" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/20181016_102810074_iOS.jpg" alt="" width="4032" height="1000">
+<figure class="post__image post__image--right" ><img src="https://shantnavagarwal.github.io/Website/media/posts/2/20181016_102810074_iOS.jpg" alt="" width="4032" height="1000">
 <figcaption >Wiring and inverter in the vehicle's boot</figcaption>
 </figure>
 </li>
@@ -167,7 +167,7 @@
 <li>The computer initiates this request when it has finished processing the previous set of frames.</li>
 </ol>
 <p>Through this cycle, we were able to ensure that each camera captured its respective frames within 7ms of each other.</p>
-<figure class="post__image post__image--center" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/2/IMG_0626.gif" width="500" height="281">
+<figure class="post__image post__image--center" ><img src="https://shantnavagarwal.github.io/Website/media/posts/2/IMG_0626.gif" width="500" height="281">
 <figcaption >Stream from 4 cameras is being advaced one frame at a time in a clockwise fashion</figcaption>
 </figure>
 <p> </p>
@@ -179,26 +179,26 @@
         <author>
             <name>Shantnav Agarwal</name>
         </author>
-        <link href="https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html"/>
-        <id>https://shantnavagarwal.github.io/FirstWebsite/traffic-sign-classifier.html</id>
+        <link href="https://shantnavagarwal.github.io/Website/traffic-sign-classifier.html"/>
+        <id>https://shantnavagarwal.github.io/Website/traffic-sign-classifier.html</id>
 
         <updated>2019-11-10T12:49:03+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/TSC.jpeg" alt="" />
+                        <img src="https://shantnavagarwal.github.io/Website/media/posts/1/TSC.jpeg" alt="" />
                     Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs. I used the GTSRB dataset&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/TSC.jpeg" alt="" />
+                    <img src="https://shantnavagarwal.github.io/Website/media/posts/1/TSC.jpeg" alt="" />
                 <p>Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs.</p>
 <h2 id="mcetoc_1dpa0i8v80"><strong>Dataset summary &amp; distribution</strong></h2>
-<figure class="post__image post__image--left" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/BarChart.png" alt="Bar chart showing number of samples in training set for each label " width="385" height="252">
+<figure class="post__image post__image--left" ><img src="https://shantnavagarwal.github.io/Website/media/posts/1/BarChart.png" alt="Bar chart showing number of samples in training set for each label " width="385" height="252">
 <figcaption >Bar chart shows number of samples in training data per label</figcaption>
 </figure>
 <p>I used the GTSRB dataset to train my network. It had almost 35000 images divided into 42 classes. As shown in the bar chart on the right, the number of datapoints for each class was highly skewed. To improve classification accuracy, I generated extra datapoints such that all labels had atleast 800 data points. To generate the extra datapoints, I scaled and warped the images with their parameters being sampled from a uniform distribution. A few examples of these generated datapoints is shown below.</p>
-<figure class="post__image post__image--wide" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/Examples.png" alt="" width="855" height="373">
+<figure class="post__image post__image--wide" ><img src="https://shantnavagarwal.github.io/Website/media/posts/1/Examples.png" alt="" width="855" height="373">
 <figcaption >
 <p>Examples of generated images</p>
 </figcaption>
@@ -206,10 +206,10 @@
 <h2 id="mcetoc_1dpa16rmp1">Pre-processing the data</h2>
 <p>To keep the size of the network in check, I decided to use grayscale images instead of colour ones.  On observing the results, I realised that some images were simply too dark. I found it difficult to myself classify these traffic signs! Thus, to further enhace the contrast of these images, I used Contrast Limiting Adaptive Histogram Equalizer (CLAHE) on each image. This produced fantastic results as shown below.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/Greyscale.png" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/Greyscale-thumbnail.png" alt="" width="720" height="317"></a>
+<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/Website/media/posts/1/gallery/Greyscale.png" ><img src="https://shantnavagarwal.github.io/Website/media/posts/1/gallery/Greyscale-thumbnail.png" alt="" width="720" height="317"></a>
 <figcaption class="gallery-description">Greyscale</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/CLAHE.png" ><img src="https://shantnavagarwal.github.io/FirstWebsite/media/posts/1/gallery/CLAHE-thumbnail.png" alt="" width="720" height="317"></a>
+<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/Website/media/posts/1/gallery/CLAHE.png" ><img src="https://shantnavagarwal.github.io/Website/media/posts/1/gallery/CLAHE-thumbnail.png" alt="" width="720" height="317"></a>
 <figcaption class="gallery-description">CLAHE</figcaption>
 </figure>
 </div>
