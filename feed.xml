@@ -3,7 +3,7 @@
     <title>shantnavagarwal</title>
     <link href="https://shantnavagarwal.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/Portfolio" />
-    <updated>2019-11-20T03:02:58+05:30</updated>
+    <updated>2019-11-29T19:52:21+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://shantnavagarwal.github.io/Portfolio/advanced-driver-assisstance-system.html"/>
         <id>https://shantnavagarwal.github.io/Portfolio/advanced-driver-assisstance-system.html</id>
 
-        <updated>2019-11-20T03:02:51+05:30</updated>
+        <updated>2019-11-29T19:52:15+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
@@ -172,8 +172,11 @@
 </figure>
 <p>Vibrations induced in the cameras due to the engine and road surface was a major problem faced by us. It not only hamper the image quality but would also have had a very detrimental effect on the camera and reduce its life. To counter this problem, we used a camera mount with rubber plugs, similar to what is used in quadcopters.</p>
 <figure class="post__image post__image" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20180615_061831284_iOS.jpg" alt="" width="4032" height="3024">
-<figcaption >Basler IP camera on its shock absorbing stand</figcaption>
+<figcaption >
+<p>Basler IP camera on its shock absorbing stand</p>
+</figcaption>
 </figure>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jKrh37Jk-pU" allowfullscreen="allowfullscreen" ></iframe></figure>
             ]]>
         </content>
     </entry>
