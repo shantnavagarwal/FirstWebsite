@@ -29,8 +29,8 @@
             "id": "https://shantnavagarwal.github.io/Portfolio/contact-model-for-soft-bodies-using-multi-body-dynamics.html",
             "url": "https://shantnavagarwal.github.io/Portfolio/contact-model-for-soft-bodies-using-multi-body-dynamics.html",
             "title": "Contact model for soft bodies using multi-body dynamics",
-            "summary": "I, along with my batchmate, Kshitij Gupta, worked on developing a simulation model for contact between multiple soft bodies. We used multiple finite beam elements to model each deformable body and employed force fields to model their contact. We used the computer program SPACAR, which&hellip;",
-            "content_html": "<p>I, along with my batchmate, Kshitij Gupta, worked on developing a simulation model for contact between multiple soft bodies. We used multiple finite beam elements to model each deformable body and employed force fields to model their contact. We used the computer program SPACAR, which is based on non-linear finite element theory, to model these beam elements. We use the Hertzian contact model to calculate forces between the interacting soft bodies. We used this model to look at the interaction of the colonoscope with the human body. The embedded videos below show are model in action. Also, do check out the report attached below which describes our findings in detail.</p>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jk28ZqlJZy0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jk28ZqlJZy0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1_cSm_Y28ZhrUmT0jV0ozHkpI58wCDFUT/preview\"></iframe>",
+            "summary": "I, along with my batchmate, Kshitij Gupta, worked on developing a simulation model for the contact between multiple soft bodies. We used multiple finite beam elements to model each deformable-body and employed force fields to model their contact. We used the computer program SPACAR, which&hellip;",
+            "content_html": "<p>I, along with my batchmate, Kshitij Gupta, worked on developing a simulation model for the contact between multiple soft bodies. We used multiple finite beam elements to model each deformable-body and employed force fields to model their contact. We used the computer program SPACAR, which is based on non-linear finite element theory, to model these beam elements. We use the Hertzian contact model to calculate forces between the interacting soft bodies. We used this model to look at the interaction of the colonoscope with the human body. The embedded videos below show our model in action. Also, do check out the report attached below, which describes our findings in detail.</p>\n<p><br><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jk28ZqlJZy0\" allowfullscreen=\"allowfullscreen\" ></iframe></p>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jk28ZqlJZy0\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1_cSm_Y28ZhrUmT0jV0ozHkpI58wCDFUT/preview\"></iframe>",
             "image": "https://shantnavagarwal.github.io/Portfolio/media/posts/4/Main.jpg",
             "author": {
                 "name": "Shantnav Agarwal"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2020-01-16T14:05:08+05:30",
-            "date_modified": "2020-01-16T15:42:07+05:30"
+            "date_modified": "2020-01-16T17:08:40+05:30"
         },
         {
             "id": "https://shantnavagarwal.github.io/Portfolio/adversarial-neural-networks.html",
