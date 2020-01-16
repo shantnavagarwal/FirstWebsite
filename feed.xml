@@ -1,161 +1,223 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>shantnavagarwal</title>
+    <title>ShantnavAgarwal</title>
     <link href="https://shantnavagarwal.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/Portfolio" />
-    <updated>2019-11-29T19:52:21+05:30</updated>
+    <updated>2020-01-16T15:49:44+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
     <id>https://shantnavagarwal.github.io/Portfolio</id>
 
     <entry>
-        <title>Advanced Driver Assistance System</title>
+        <title>Continuous Contact Based Skating Technique for Robotic Platform</title>
         <author>
             <name>Shantnav Agarwal</name>
         </author>
-        <link href="https://shantnavagarwal.github.io/Portfolio/advanced-driver-assisstance-system.html"/>
-        <id>https://shantnavagarwal.github.io/Portfolio/advanced-driver-assisstance-system.html</id>
+        <link href="https://shantnavagarwal.github.io/Portfolio/continuous-contact-based-skating-technique-for-robotic-platform.html"/>
+        <id>https://shantnavagarwal.github.io/Portfolio/continuous-contact-based-skating-technique-for-robotic-platform.html</id>
 
-        <updated>2019-11-29T19:52:15+05:30</updated>
+        <updated>2020-01-16T15:47:18+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
-                    <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
-
+                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/5/Main.jpg" alt="" />
+                    Since August 2019, I have along with two graduate students been working on the development of a platform for quick locomotion of a robot. This platform takes inspiration from skates used by us as a form of locomotion. This platform is more suitable for movement&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20181016_102911748_iOSNEW.png" alt="" />
-                <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
+                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/5/Main.jpg" alt="" />
+                <p>Since August 2019, I have along with two graduate students been working on the development of a platform for quick locomotion of a robot. This platform takes inspiration from skates used by us as a form of locomotion. This platform is more suitable for movement along plain surfaces as compared to bipedal mechanisms due to its simplicity and requirement of only a small amount of computation power for balance. We aim to develop this platform for use on ice as well!</p>
+<p>This project is currently under development at the Mechatronics Lab at IIT Delhi. I along with Prof. J P Khatait and Mr Rajesh Kumar (PhD student) are collaborating on this effort. We have already fabricated our working prototype and started designing the control algorithms for this system. We have also written a paper on our findings which we are in the process of publishing to the ASME journal. Do check out the video below</p>
+<p> </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WjxppaLW2RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact model for soft bodies using multi-body dynamics</title>
+        <author>
+            <name>Shantnav Agarwal</name>
+        </author>
+        <link href="https://shantnavagarwal.github.io/Portfolio/contact-model-for-soft-bodies-using-multi-body-dynamics.html"/>
+        <id>https://shantnavagarwal.github.io/Portfolio/contact-model-for-soft-bodies-using-multi-body-dynamics.html</id>
 
-<h2 id="mcetoc_1dpa6mevi0">Our Equipment</h2>
+        <updated>2020-01-16T15:42:07+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/4/Main.jpg" alt="" />
+                    I, along with my batchmate, Kshitij Gupta, worked on developing a simulation model for contact between multiple soft bodies. We used multiple finite beam elements to model each deformable body and employed force fields to model their contact. We used the computer program SPACAR, which&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/4/Main.jpg" alt="" />
+                <p>I, along with my batchmate, Kshitij Gupta, worked on developing a simulation model for contact between multiple soft bodies. We used multiple finite beam elements to model each deformable body and employed force fields to model their contact. We used the computer program SPACAR, which is based on non-linear finite element theory, to model these beam elements. We use the Hertzian contact model to calculate forces between the interacting soft bodies. We used this model to look at the interaction of the colonoscope with the human body. The embedded videos below show are model in action. Also, do check out the report attached below which describes our findings in detail.</p>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jk28ZqlJZy0" allowfullscreen="allowfullscreen" ></iframe></figure>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jk28ZqlJZy0" allowfullscreen="allowfullscreen" ></iframe></figure>
+<iframe width="640" height="480" src="https://drive.google.com/file/d/1_cSm_Y28ZhrUmT0jV0ozHkpI58wCDFUT/preview"></iframe>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Poisoned Neural Networks</title>
+        <author>
+            <name>Shantnav Agarwal</name>
+        </author>
+        <link href="https://shantnavagarwal.github.io/Portfolio/adversarial-neural-networks.html"/>
+        <id>https://shantnavagarwal.github.io/Portfolio/adversarial-neural-networks.html</id>
+            <category term="Tensorflow"/>
+            <category term="Machine Learning"/>
+
+        <updated>2020-01-16T15:47:13+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/3/Main-photo.PNG" alt="" />
+                    In the summer of 2019, I travelled to University of Michigan in Ann Arbor for working on the attack and defence of Neural networks. These machine learning models are susceptible to many types of attacks. These attacks can be categorised along three dimensions: I found&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/3/Main-photo.PNG" alt="" />
+                <p>In the summer of 2019, I travelled to University of Michigan in Ann Arbor for working on the attack and defence of Neural networks. These machine learning models are susceptible to many types of attacks. These attacks can be categorised along three dimensions:</p>
+<ol>
+<li>Timing: This dimension assesses when an attack took place. This can either be before the model has been trained (Poisoning attack) or after (Evasive attack). In a poisoning attack, the attacker aims to modify the data being fed into the model; while in an Evasive attack, the adversary changes the datapoint being fed into the model.</li>
+<li>Information: This dimension addresses the amount of information that is made available to the attacker. When an attacker has complete information about the ML model, it is known as a <em>white-box </em> On the other hand, in a <em>black-box</em> attack, the attacker has very limited knowledge. He, however can gain more knowledge about the model through queries, and subsequently training a substitute model.</li>
+<li>Goals: It is also important to look at the goal of the adversary. Generally, an attacker would aim to either target a particular class, or she may aim to reduce the precision of the model as a whole!</li>
+</ol>
+<p>I found the book “Adversarial Machine Learning” by Ronald J. Brachman to be a great resource while doing my research!</p>
+<p>I investigated targeted poisoning black-box attacks on models trained on the GTSRB dataset. Have a look at my findings below</p>
+<iframe width="640" height="480" src="https://drive.google.com/file/d/1l1VO6zuowa-ZG4MPNrEenVgBMPaNf6cK/preview"></iframe>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Advanced Driver Assistance System</title>
+        <author>
+            <name>Shantnav Agarwal</name>
+        </author>
+        <link href="https://shantnavagarwal.github.io/Portfolio/advanced-driver-assistance-system.html"/>
+        <id>https://shantnavagarwal.github.io/Portfolio/advanced-driver-assistance-system.html</id>
+            <category term="Python"/>
+            <category term="OpenCV"/>
+
+        <updated>2020-01-16T15:47:06+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/20181016_102911748_iOSNEW.jpg" alt="" />
+                    While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/20181016_102911748_iOSNEW.jpg" alt="" />
+                <p>While self driving car technology is a bit too ahead of us, we can still use its advanced technologies to make our roads safer! I and my friend Hitesh worked with Prof. Sudipto Mukherjee (IITD) on developing an ADAS. We focused on developing algorithms that use Computer Vision to extract useful data from videos and assist the driver in performing safe driving practices.</p>
+<h2 id="mcetoc_1dukogj6b0">Our Equipment</h2>
 <p>Our objective was to install multiple cameras in a car, and process their data to advise the driver in real-time if required. We had the following equipment on hand:</p>
-<table style="width: 653px; height: 612px;">
+<table>
 <tbody>
 <tr>
-<td style="width: 82px;">
-<p><span style="text-decoration: underline;"><strong>S. No</strong></span></p>
-</td>
-<td style="width: 291px;">
-<p><span style="text-decoration: underline;"><strong>Name</strong></span></p>
-</td>
-<td style="width: 157.381px;">
-<p><span style="text-decoration: underline;"><strong>Model Number</strong></span></p>
-</td>
-<td style="width: 118.619px;">
-<p><span style="text-decoration: underline;"><strong>Quantity</strong></span></p>
-</td>
-</tr>
-<tr>
-<td style="width: 82px;">
+<td>
 <p>1.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>Basler IP Fixed Box Cameras</p>
 </td>
-<td style="width: 157.381px;">
+<td>
 <p>BIP2-1300C-DN</p>
 </td>
-<td style="width: 118.619px;">
+<td>
 <p>6 Units</p>
 </td>
 </tr>
 <tr>
-<td style="width: 82px;">
+<td>
 <p>2.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>D-Link Network Box</p>
 </td>
-<td style="width: 157.381px;">
+<td>
 <p>DES-1210-08P</p>
 </td>
-<td style="width: 118.619px;">
+<td>
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 82px;">
+<td>
 <p>3.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>Vehicle</p>
 </td>
-<td style="width: 157.381px;">
+<td>
 <p>Nissan X-Trail</p>
 </td>
-<td style="width: 118.619px;">
+<td>
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 82px;">
+<td>
 <p>4.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>Matrix Computer</p>
 </td>
-<td style="width: 157.381px;">
+<td>
 <p>MXE-5401</p>
 </td>
-<td style="width: 118.619px;">
+<td>
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 82px;">
+<td>
 <p>5.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>Micro-Controller</p>
 </td>
-<td style="width: 157.381px;">
+<td>
 <p>Arduino Uno</p>
 </td>
-<td style="width: 118.619px;">
+<td>
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 82px;">
+<td>
 <p>6.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>Power Supply</p>
 </td>
-<td style="width: 157.381px;">
+<td>
 <p>1000 Watts</p>
 </td>
-<td style="width: 118.619px;">
+<td>
 <p>1 Unit</p>
 </td>
 </tr>
 <tr>
-<td style="width: 82px;">
+<td>
 <p>7.      </p>
 </td>
-<td style="width: 291px;">
+<td>
 <p>Connecting Wires, Multi-meter etc</p>
-</td>
-<td style="width: 157.381px;">
-<p> </p>
-</td>
-<td style="width: 118.619px;">
-<p> </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2 id="mcetoc_1dpg3jint0"> Process</h2>
+<h2 id="mcetoc_1dukohrrg1">Process</h2>
 <p>We identified the 3 areas in which we needed to work to properly instrument the car. They were:</p>
 <ul>
 <li>Providing power to the computers and cameras</li>
 <li>Ensure that all the cameras are synchronised - We want them to take images simultaneously</li>
 <li>Damp the vibrations introduced in the camera due to the movement in the car
-<figure class="post__image post__image--right" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20181016_102810074_iOS.jpg" alt="" width="4032" height="1000">
-<figcaption >Wiring and inverter in the vehicle's boot</figcaption>
+<figure class="post__image post__image--right"><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20181016_102810074_iOS.jpg" sizes="367px" srcset="https://shantnavagarwal.github.io/Portfolio/media/posts/2/responsive/20181016_102810074_iOS-xs.jpg 300w ,https://shantnavagarwal.github.io/Portfolio/media/posts/2/responsive/20181016_102810074_iOS-sm.jpg 480w ,https://shantnavagarwal.github.io/Portfolio/media/posts/2/responsive/20181016_102810074_iOS-md.jpg 768w ,https://shantnavagarwal.github.io/Portfolio/media/posts/2/responsive/20181016_102810074_iOS-lg.jpg 1024w ,https://shantnavagarwal.github.io/Portfolio/media/posts/2/responsive/20181016_102810074_iOS-xl.jpg 1360w ,https://shantnavagarwal.github.io/Portfolio/media/posts/2/responsive/20181016_102810074_iOS-2xl.jpg 1600w" width="4032" height="1000"    >
+<figcaption>Wiring and inverter in the vehicle's boot</figcaption>
 </figure>
 </li>
 </ul>
@@ -167,16 +229,16 @@
 <li>The computer initiates this request when it has finished processing the previous set of frames.</li>
 </ol>
 <p>Through this cycle, we were able to ensure that each camera captured its respective frames within 7ms of each other.</p>
-<figure class="post__image post__image--center" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/IMG_0626.gif" width="500" height="281">
-<figcaption >Stream from 4 cameras is being advaced one frame at a time in a clockwise fashion</figcaption>
+<figure class="post__image post__image--center"><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/IMG_0626.gif" width="500" height="281" >
+<figcaption>Stream from 4 cameras is being advaced one frame at a time in a clockwise fashion</figcaption>
 </figure>
 <p>Vibrations induced in the cameras due to the engine and road surface was a major problem faced by us. It not only hamper the image quality but would also have had a very detrimental effect on the camera and reduce its life. To counter this problem, we used a camera mount with rubber plugs, similar to what is used in quadcopters.</p>
-<figure class="post__image post__image" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/20180615_061831284_iOS.jpg" alt="" width="4032" height="3024">
-<figcaption >
-<p>Basler IP camera on its shock absorbing stand</p>
-</figcaption>
+<figure class="post__image post__image" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/20180615_061831284_iOS.jpg" alt="" width="4032" height="3024">
+<figcaption >Basler IP camera on it's shock absorbing stand</figcaption>
 </figure>
-<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/jKrh37Jk-pU" allowfullscreen="allowfullscreen" ></iframe></figure>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/Pt4IZv9tFXs" allowfullscreen="allowfullscreen" ></iframe></figure>
+<p>Report:</p>
+<iframe width="640" height="480" src="https://drive.google.com/file/d/1KWUaXoy0GyBPCIY86sjYDj5f2JY9l4Gr/preview"></iframe>
             ]]>
         </content>
     </entry>
@@ -185,45 +247,45 @@
         <author>
             <name>Shantnav Agarwal</name>
         </author>
-        <link href="https://shantnavagarwal.github.io/Portfolio/traffic-sign-classifier.html"/>
-        <id>https://shantnavagarwal.github.io/Portfolio/traffic-sign-classifier.html</id>
+        <link href="https://shantnavagarwal.github.io/Portfolio/cnn-for-detecting-traffic-signs.html"/>
+        <id>https://shantnavagarwal.github.io/Portfolio/cnn-for-detecting-traffic-signs.html</id>
+            <category term="Tensorflow"/>
+            <category term="Machine Learning"/>
 
-        <updated>2019-11-19T23:06:02+05:30</updated>
+        <updated>2020-01-16T15:44:18+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/TSC.jpeg" alt="" />
+                        <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/TSC-2xl.jpeg" alt="" />
                     Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs. I used the GTSRB dataset&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/TSC.jpeg" alt="" />
+                    <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/TSC-2xl.jpeg" alt="" />
                 <p>Recognition of Traffic signs is one of the most crucial tasks while driving on the roads. This post provides an overview of the pipeline built by me to train a Convolutional Neural Net built by me to recognise traffic signs.</p>
-<h2 id="mcetoc_1dpa0i8v80"><strong>Dataset summary &amp; distribution</strong></h2>
-<figure class="post__image post__image--left" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/BarChart.png" alt="Bar chart showing number of samples in training set for each label " width="385" height="252">
-<figcaption >Bar chart shows number of samples in training data per label</figcaption>
+<h2 id="mcetoc_1dukpof7c0"><strong>Dataset summary &amp; distribution</strong></h2>
+<figure class="post__image post__image--left"><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/BarChart.png" sizes="385px" srcset="https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/BarChart-xs.png 300w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/BarChart-sm.png 480w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/BarChart-md.png 768w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/BarChart-lg.png 1024w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/BarChart-xl.png 1360w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/BarChart-2xl.png 1600w" alt="Bar chart showing number of samples in training set for each label " width="385" height="252"    >
+<figcaption>Bar chart shows number of samples in training data per label</figcaption>
 </figure>
 <p>I used the GTSRB dataset to train my network. It had almost 35000 images divided into 42 classes. As shown in the bar chart on the right, the number of datapoints for each class was highly skewed. To improve classification accuracy, I generated extra datapoints such that all labels had atleast 800 data points. To generate the extra datapoints, I scaled and warped the images with their parameters being sampled from a uniform distribution. A few examples of these generated datapoints is shown below.</p>
-<figure class="post__image post__image--wide" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/Examples.png" alt="" width="855" height="373">
-<figcaption >
+<figure class="post__image post__image--wide"><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/Examples.png" sizes="796px" srcset="https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/Examples-xs.png 300w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/Examples-sm.png 480w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/Examples-md.png 768w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/Examples-lg.png 1024w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/Examples-xl.png 1360w ,https://shantnavagarwal.github.io/Portfolio/media/posts/1/responsive/Examples-2xl.png 1600w" width="855" height="373"    >
+<figcaption>
 <p>Examples of generated images</p>
 </figcaption>
 </figure>
-<h2 id="mcetoc_1dpa16rmp1">Pre-processing the data</h2>
+<h2 id="mcetoc_1dukpof7c1">Pre-processing the data</h2>
 <p>To keep the size of the network in check, I decided to use grayscale images instead of colour ones.  On observing the results, I realised that some images were simply too dark. I found it difficult to myself classify these traffic signs! Thus, to further enhace the contrast of these images, I used Contrast Limiting Adaptive Histogram Equalizer (CLAHE) on each image. This produced fantastic results as shown below.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/Portfolio/media/posts/1/gallery/Greyscale.png" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/gallery/Greyscale-thumbnail.png" alt="" width="720" height="317"></a>
+<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/Portfolio/media/posts/2/gallery/Greyscale.png" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/gallery/Greyscale-thumbnail.png" alt="" width="768" height="338"></a>
 <figcaption class="gallery-description">Greyscale</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/Portfolio/media/posts/1/gallery/CLAHE.png" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/1/gallery/CLAHE-thumbnail.png" alt="" width="720" height="317"></a>
+<figure class="gallery__item"><a href="https://shantnavagarwal.github.io/Portfolio/media/posts/2/gallery/CLAHE.png" ><img src="https://shantnavagarwal.github.io/Portfolio/media/posts/2/gallery/CLAHE-thumbnail.png" alt="" width="768" height="338"></a>
 <figcaption class="gallery-description">CLAHE</figcaption>
 </figure>
 </div>
 <p>Particularly impressive is the "Men at Work" sign (row 3, col 5) which was not comprehensible before the CLAHE filter was applied. Finally the images were standardized to between 0 and 1.</p>
-<h2 id="mcetoc_1dpa2lijd2">Results</h2>
+<h2 id="mcetoc_1dukpof7c2">Results</h2>
 <p>I was able to sucessfully train the model to deliver an accuracy of over 98% on the testing data.</p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
