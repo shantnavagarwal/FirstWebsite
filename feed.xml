@@ -3,7 +3,7 @@
     <title>ShantnavAgarwal</title>
     <link href="https://shantnavagarwal.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://shantnavagarwal.github.io/Portfolio" />
-    <updated>2020-01-16T17:08:50+05:30</updated>
+    <updated>2020-01-16T17:11:15+05:30</updated>
     <author>
         <name>Shantnav Agarwal</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://shantnavagarwal.github.io/Portfolio/continuous-contact-based-skating-technique-for-robotic-platform.html"/>
         <id>https://shantnavagarwal.github.io/Portfolio/continuous-contact-based-skating-technique-for-robotic-platform.html</id>
+            <category term="Robotics"/>
+            <category term=" Arduino"/>
 
-        <updated>2020-01-16T15:47:18+05:30</updated>
+        <updated>2020-01-16T17:10:43+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/5/Main.jpg" alt="" />
@@ -41,8 +43,10 @@
         </author>
         <link href="https://shantnavagarwal.github.io/Portfolio/contact-model-for-soft-bodies-using-multi-body-dynamics.html"/>
         <id>https://shantnavagarwal.github.io/Portfolio/contact-model-for-soft-bodies-using-multi-body-dynamics.html</id>
+            <category term="SPACAR"/>
+            <category term="MATLAB"/>
 
-        <updated>2020-01-16T17:08:40+05:30</updated>
+        <updated>2020-01-16T17:11:07+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shantnavagarwal.github.io/Portfolio/media/posts/4/Main.jpg" alt="" />
